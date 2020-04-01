@@ -47,45 +47,16 @@ a:hover {
   color: #EAF6F6;
 }
 
+
+/* Top Conatainer */
 .top-container {
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
 }
 
-.middle-container {
-  margin: 100px 0;
-}
-
-.bottom-container {
-  background-color: #66BFBF;
-  padding: 50px 0 20px;
-}
-
-.skill-row {
-  width: 50%;
-  margin: 100px auto 100px auto;
-  text-align: left;
-}
-
 .pro {
   text-decoration: underline;
-}
-
-.intro {
-  width: 30%;
-  margin: auto;
-}
-
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
-}
-
-.copyright {
-  color: #EAF6F6;
-  font-size: 0.75rem;
-  padding: 20px 0;
 }
 
 .top-cloud {
@@ -98,6 +69,28 @@ a:hover {
   position: absolute;
   left: 250px;
   bottom: 300px;
+}
+
+
+/* Middle Container */
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
 }
 
 .watch-img {
@@ -143,4 +136,18 @@ a:hover {
 .profile img {
   border-radius: 100%;
   width: 18%;
+}
+
+
+
+/* Bottom Container */
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
